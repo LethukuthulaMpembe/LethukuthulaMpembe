@@ -61,5 +61,5 @@ I enjoy turning raw data into meaningful insights, and eventually into automated
 ---
 
 ## 📫 Contact
-📧 Email: your-email@example.com  
-🔗 LinkedIn: your-linkedin  
+📧 Email: lethurhmpembe@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/lethukuthula-mpembe-494451272  
