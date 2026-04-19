@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👨‍💻 Lethukuthula Mpembe
+### 📊 Data Analyst → Data Engineer  
 
-<!--
-**LethukuthulaMpembe/LethukuthulaMpembe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Durban, South Africa  
+🎓 Diploma in ICT – Durban University of Technology (DUT)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am an ICT student focused on building practical data skills through a structured 5-month roadmap.  
+My goal is to transition from **data analysis to data engineering** by working on real-world, project-based learning.
+
+I enjoy turning raw data into meaningful insights, and eventually into automated data systems and pipelines.
+
+---
+
+## 🛠️ Skills
+
+📊 **Data Analysis**
+- SQL (queries, joins, aggregations)
+- Excel (pivot tables, LOOKUP functions)
+
+🐍 **Programming**
+- Python (pandas, data cleaning, automation)
+
+📈 **Data Visualization**
+- Power BI / Tableau
+
+🔧 **Data Engineering (Learning)**
+- Data pipelines (ETL concepts)
+- Data transformation workflows
+
+---
+
+## 📂 Projects
+
+🔹 Currently building:
+- 📊 Data Analysis Foundations  
+- 🧹 Data Cleaning with Python  
+- ⚙️ Automated Data Pipeline  
+- 🏗️ End-to-End Data Platform  
+
+📌 Each project follows:
+**Problem → Data → Cleaning → Analysis → Insights → Automation**
+
+---
+
+## 📈 Current Focus
+- 📌 Strengthening SQL & Python fundamentals  
+- 📌 Building real-world data projects  
+- 📌 Learning ETL pipelines & automation  
+- 📌 Moving toward data engineering systems  
+
+---
+
+## 🎯 Goals
+- 🎯 Become a job-ready Data Analyst  
+- 🚀 Transition into Data Engineering  
+- 🏗️ Build scalable data systems and pipelines  
+
+---
+
+## 📫 Contact
+📧 Email: your-email@example.com  
+🔗 LinkedIn: your-linkedin  
