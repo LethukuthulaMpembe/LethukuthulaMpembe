@@ -1,65 +1,94 @@
-# 👨‍💻 Lethukuthula Mpembe
-### 📊 Data Analyst → Data Engineer  
+👋 Lethukuthula Mpembe
 
-📍 Durban, South Africa  
+Backend & Data Systems Developer (Aspiring Software Engineer)
+📍 Durban, South Africa
 🎓 Diploma in ICT – Durban University of Technology (DUT)
 
----
+🚀 About Me
 
-## 🚀 About Me
-I am an ICT student focused on building practical data skills through a structured 5-month roadmap.  
-My goal is to transition from **data analysis to data engineering** by working on real-world, project-based learning.
+I am an ICT student focused on building real-world backend systems and data-driven applications.
 
-I enjoy turning raw data into meaningful insights, and eventually into automated data systems and pipelines.
+My work focuses on combining:
 
----
+Backend development (APIs, CRUD systems)
+Database design (SQL systems)
+Data processing (ETL concepts and automation)
 
-## 🛠️ Skills
+Instead of only studying theory, I build end-to-end systems that simulate real industry applications.
 
-📊 **Data Analysis**
-- SQL (queries, joins, aggregations)
-- Excel (pivot tables, LOOKUP functions)
+🛠️ Technical Skills
+💻 Backend Development
+C# / ASP.NET Core (Web APIs, MVC)
+REST API design
+CRUD application development
+🗄️ Databases
+SQL Server
+Database design (normalization, relationships)
+Query optimization (joins, aggregations)
+🐍 Data Processing
+Python (pandas, automation scripts)
+Data cleaning and transformation
+Basic ETL workflows
+☁️ Tools & Platforms
+Git & GitHub
+Postman (API testing)
+Azure (basic cloud deployment – learning)
+🏗️ Projects
+🔹 Civic Issue Reporting System (In Progress)
 
-🐍 **Programming**
-- Python (pandas, data cleaning, automation)
+A backend system for reporting and managing municipal issues.
 
-📈 **Data Visualization**
-- Power BI / Tableau
+Features:
 
-🔧 **Data Engineering (Learning)**
-- Data pipelines (ETL concepts)
-- Data transformation workflows
+User authentication
+Issue reporting (CRUD operations)
+Admin management dashboard
+Status tracking system
+SQL-based relational database
 
----
+Tech Stack:
+ASP.NET Core | SQL Server | Entity Framework Core
 
-## 📂 Projects
+🔹 Courier & Delivery Management API
 
-🔹 Currently building:
-- 📊 Data Analysis Foundations  
-- 🧹 Data Cleaning with Python  
-- ⚙️ Automated Data Pipeline  
-- 🏗️ End-to-End Data Platform  
+A backend system simulating parcel delivery operations.
 
-📌 Each project follows:
-**Problem → Data → Cleaning → Analysis → Insights → Automation**
+Features:
 
----
+Parcel creation and tracking
+Driver assignment system
+Delivery status updates
+RESTful API architecture
 
-## 📈 Current Focus
-- 📌 Strengthening SQL & Python fundamentals  
-- 📌 Building real-world data projects  
-- 📌 Learning ETL pipelines & automation  
-- 📌 Moving toward data engineering systems  
+Tech Stack:
+C# Web API | SQL Server | Postman
 
----
+🔹 Data Processing Pipeline (Learning Project)
 
-## 🎯 Goals
-- 🎯 Become a job-ready Data Analyst  
-- 🚀 Transition into Data Engineering  
-- 🏗️ Build scalable data systems and pipelines  
+A Python-based system for processing structured datasets.
 
----
+Features:
 
-## 📫 Contact
+CSV ingestion
+Data cleaning and transformation
+Export of processed datasets
+
+Tech Stack:
+Python | Pandas
+
+📊 What I’m Focused On Now
+Building production-style backend systems
+Strengthening API development skills
+Designing proper database architectures
+Learning cloud deployment (Azure)
+Applying data engineering concepts inside real systems
+🎯 Career Goals
+Become a job-ready Backend Developer (internship-ready)
+Develop strong system design skills
+Transition into Data Engineering roles in enterprise environments
+Build scalable backend + data systems
+📫 Contact
+
 📧 Email: lethurhmpembe@gmail.com
-🔗 LinkedIn: www.linkedin.com/in/lethukuthula-mpembe-494451272  
+
+🔗 LinkedIn: www.linkedin.com/in/lethukuthula-mpembe-494451272 
