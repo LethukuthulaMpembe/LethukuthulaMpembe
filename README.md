@@ -1,6 +1,6 @@
 👋 Lethukuthula Mpembe
-
 Backend & Data Systems Developer (Aspiring Software Engineer)
+
 📍 Durban, South Africa
 🎓 Diploma in ICT – Durban University of Technology (DUT)
 
@@ -8,11 +8,11 @@ Backend & Data Systems Developer (Aspiring Software Engineer)
 
 I am an ICT student focused on building real-world backend systems and data-driven applications.
 
-My work focuses on combining:
+I specialize in combining:
 
-Backend development (APIs, CRUD systems)
-Database design (SQL systems)
-Data processing (ETL concepts and automation)
+⚙️ Backend Development (APIs, CRUD systems)
+🗄️ Database Design (SQL systems, relational modeling)
+🔄 Data Processing (ETL concepts and automation)
 
 Instead of only studying theory, I build end-to-end systems that simulate real industry applications.
 
@@ -32,28 +32,28 @@ Basic ETL workflows
 ☁️ Tools & Platforms
 Git & GitHub
 Postman (API testing)
-Azure (basic cloud deployment – learning)
+Microsoft Azure (basic cloud deployment – learning)
 🏗️ Projects
 🔹 Civic Issue Reporting System (In Progress)
 
-A backend system for reporting and managing municipal issues.
+Backend system for reporting and managing municipal issues.
 
-Features:
+Key Features:
 
 User authentication
 Issue reporting (CRUD operations)
-Admin management dashboard
+Admin dashboard for issue management
 Status tracking system
-SQL-based relational database
+Relational SQL database design
 
 Tech Stack:
 ASP.NET Core | SQL Server | Entity Framework Core
 
 🔹 Courier & Delivery Management API
 
-A backend system simulating parcel delivery operations.
+Backend system simulating parcel delivery operations.
 
-Features:
+Key Features:
 
 Parcel creation and tracking
 Driver assignment system
@@ -65,21 +65,21 @@ C# Web API | SQL Server | Postman
 
 🔹 Data Processing Pipeline (Learning Project)
 
-A Python-based system for processing structured datasets.
+Python-based system for processing structured datasets.
 
-Features:
+Key Features:
 
 CSV ingestion
 Data cleaning and transformation
-Export of processed datasets
+Export processed datasets
 
 Tech Stack:
 Python | Pandas
 
-📊 What I’m Focused On Now
+📊 Current Focus
 Building production-style backend systems
 Strengthening API development skills
-Designing proper database architectures
+Designing scalable database architectures
 Learning cloud deployment (Azure)
 Applying data engineering concepts inside real systems
 🎯 Career Goals
@@ -91,4 +91,4 @@ Build scalable backend + data systems
 
 📧 Email: lethurhmpembe@gmail.com
 
-🔗 LinkedIn: www.linkedin.com/in/lethukuthula-mpembe-494451272 
+🔗 LinkedIn: www.linkedin.com/in/lethukuthula-mpembe-494451272
